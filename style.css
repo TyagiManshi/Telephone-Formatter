@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-family: 'roboto';
+    background-color: rgb(222, 249, 248);
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+}
+hr{
+    height: 4px;
+    background-color: grey;
+    margin-bottom: 50px;
+}
+input{
+    font-size: 1.5rem;
+}
